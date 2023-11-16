@@ -34,6 +34,7 @@ elementos es  (3, 4) y (5, 6), con un valor total de 10.
 Usar python 
 ```python
 #Comandos para ejecutarlo
+#version python Python 3.10.8
 python test18.py  #el test 18
 
 python test19.py  #el test 19
